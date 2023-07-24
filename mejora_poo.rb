@@ -1,5 +1,5 @@
 # Sergio Dominguez
-# Prueba - Introducción a la programación POO con Ruby
+# Prueba - Introducción a la programación POOcon Ruby
 
 class Person
     attr_accessor  :first, :last, :age
